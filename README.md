@@ -1,8 +1,8 @@
 # Alarm Clock in React
 
-[![Alarm](assets/alarm-clock.png)](https://react-alarm-clock.netlify.app/)
+[![Alarm](assets/alarm-clock.png)](https://digitalalarmclockinreact.netlify.app/)
 
-[![Alarm set](assets/alarm-clock-set.png)](https://react-alarm-clock.netlify.app/)
+[![Alarm set](assets/alarm-clock-set.png)](https://digitalalarmclockinreact.netlify.app/)
 
 ## Technologies
 
@@ -28,7 +28,7 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/mdtanvirahamedshanto/Raw-Nodejs-Api-Monitaring
+   git clone https://github.com/mdtanvirahamedshanto/Alarm-Clock-in-React
    ```
 2. Navigate the directory
    ```sh
